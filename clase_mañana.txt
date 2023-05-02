@@ -1,0 +1,8 @@
+-revisar la pregunta del pull push.
+-problema de friccion, angulo para que no deslice
+-que tengo que considerar si desliza?
+-ejemplo en 3dsMax del resultado
+-funcionamiento del pendulo con ejemplo en 3dsmax
+-repaso movimiento circular--calculo de omega en 2001
+-calculo del radio de la estacion en 2001
+-comenzar con impulso

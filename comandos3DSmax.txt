@@ -1,0 +1,7 @@
+- maximizar una pantalla: atl + w
+- navegar: alt+scroll
+- desplazarse: alt + ctrl
+- bloquear/debloquear: s
+
+
+

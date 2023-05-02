@@ -1,0 +1,2 @@
+Hacer un assignment en el cual tengan que calcular tiempos de recorrido en pantalla para diferentes movimientos. En el que quede claro que las coasa mas grandes 
+de ven con movimientos mas lentos en pantalla.

@@ -1,0 +1,2 @@
+\beamer@sectionintoc {2}{Free fall}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Free falling bodies}{3}{0}{1}

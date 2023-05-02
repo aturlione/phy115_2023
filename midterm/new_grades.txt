@@ -1,0 +1,7 @@
+rong: 0.5
+javier: 0.33
+zahira:0.5
+xinyi:0.5
+leire:0.33+0.5
+mirari:+0.5
+mikel:+0.33

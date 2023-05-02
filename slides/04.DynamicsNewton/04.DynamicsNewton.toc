@@ -1,0 +1,5 @@
+\beamer@sectionintoc {2}{Newton's Laws Of Motion}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Force}{5}{0}{1}
+\beamer@subsectionintoc {2}{2}{Newton's First Law}{20}{0}{1}
+\beamer@subsectionintoc {2}{3}{ Newton's Second Law }{39}{0}{1}
+\beamer@subsectionintoc {2}{4}{ Newton’s Third Law}{57}{0}{1}

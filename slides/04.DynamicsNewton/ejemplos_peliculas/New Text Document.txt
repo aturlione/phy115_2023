@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=dKJa-KQNjQU -- no force to push up
+https://www.youtube.com/watch?v=L4GlIaD3CBw
+https://www.youtube.com/watch?v=dKJa-KQNjQU --el impulso para frenar = impulso para moverse
+
+frena en un Dt mucho menos que el Dt para llegar a esa posicion --> fuerza mucho mayor (o aceleracion mucho mayor)
+
+clase martes: - 3 ejemplos escenas peliculas
+	      - resolver los ejemplos y representarlos en 3dsmax
+	      - explicar la resistencia al aire
+              - rampa -- movimiento circular
